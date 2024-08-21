@@ -83,4 +83,4 @@ https://www.youtube.com/watch?v=Vy3OkbtUa5k
 https://www.cnet.com/tech/services-and-software/meta-ai-review-a-convenient-but-unimpressive-virtual-assistant/
 https://www.forbes.com/sites/lanceeliot/2024/08/13/generative-ai-apps-such-as-chatgpt-claude-llama-and-others-appear-to-surprisingly-have-a-shared-imagination-that-could-vastly-impact-the-future-of-ai/
 https://builtin.com/artificial-intelligence/artificial-intelligence-future
-
+asdf
